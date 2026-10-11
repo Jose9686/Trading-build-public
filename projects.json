@@ -1,0 +1,4 @@
+[
+  {"name": "example", "url": "https://github.com/OWNER/REPO.git", "branch": "main",
+   "test": "python3 -m unittest discover -s tests -t .", "files": {"TODO.md": 40}}
+]
